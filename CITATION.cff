@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: ADN Prime Framework — Scripts & Predictors
+version: 0.1.0
+date-released: 2025-09-18
+authors:
+  - family-names: Sarkar
+    given-names: Atanu
+    affiliation: Independent Researcher
+  - name: Ashva
+    affiliation: AI Research Partner
+repository-code: https://github.com/s-atanu-spec/adn-prime-framework
+license: MIT
+keywords:
+  - primes
+  - number theory
+  - arithmetic progressions
+  - sieve
+  - ADN framework
