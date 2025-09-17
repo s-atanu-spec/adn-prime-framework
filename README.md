@@ -1,3 +1,4 @@
+[![GitHub release](https://img.shields.io/github/v/release/s-atanu-spec/adn-prime-framework)](https://github.com/s-atanu-spec/adn-prime-framework/releases)
 
 # ADN Prime Framework — Scripts & Predictors
 
